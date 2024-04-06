@@ -50,7 +50,7 @@ The results demonstrate the application of Lagrange interpolation in approximati
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 

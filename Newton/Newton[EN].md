@@ -24,7 +24,7 @@ This project focuses on computing the value of the interpolating polynomial usin
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 

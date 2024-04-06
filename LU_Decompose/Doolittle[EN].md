@@ -46,4 +46,4 @@ result = doolittle("data.txt")
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
