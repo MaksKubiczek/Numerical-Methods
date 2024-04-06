@@ -28,7 +28,7 @@ This project focuses on solving systems of linear equations using the Jacobi met
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 

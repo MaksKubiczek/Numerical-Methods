@@ -69,7 +69,7 @@ Below are the convergence plots for each function, showing how the integration v
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 

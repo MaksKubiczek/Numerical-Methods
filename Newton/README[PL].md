@@ -24,7 +24,7 @@ Projekt ten koncentruje się na obliczaniu wartości wielomianu interpolacyjnego
 
 ## Autor
 
-Ten projekt został stworzony przez [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
+Ten projekt został stworzony przez [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## Licencja
 
