@@ -27,7 +27,7 @@ To use the project, follow these steps:
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 

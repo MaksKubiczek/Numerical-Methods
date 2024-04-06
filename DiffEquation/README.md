@@ -28,7 +28,7 @@ This project demonstrates numerical methods for solving ordinary differential eq
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 

@@ -27,7 +27,7 @@ Aby korzystać z projektu, wykonaj następujące kroki:
 
 ## Autor
 
-Ten projekt został stworzony przez [Maksymilian Kubiczek]([@MaksKubiczek](https://github.com/MaksKubiczek)).
+Ten projekt został stworzony przez ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## Licencja
 

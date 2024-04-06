@@ -50,7 +50,7 @@ where \( a_0, a_1, ..., a_n \) are coefficients to be determined, and \( n \) is
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 

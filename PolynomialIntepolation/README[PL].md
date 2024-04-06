@@ -50,7 +50,7 @@ gdzie \( a_0, a_1, ..., a_n \) to współczynniki do wyznaczenia, a \( n \) to s
 
 ## Autor
 
-Ten projekt został stworzony przez [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+Ten projekt został stworzony przez ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## Licencja
 

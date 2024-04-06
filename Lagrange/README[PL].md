@@ -50,7 +50,7 @@ Wyniki pokazują zastosowanie interpolacji Lagrange'a w przybliżaniu wartości 
 
 ## Autor
 
-Ten projekt został stworzony przez [Maksymiliana Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+Ten projekt został stworzony przez ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## Licencja
 

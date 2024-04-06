@@ -5,12 +5,14 @@ Projekt ten skupia się na rozwiązywaniu układów równań liniowych przy uży
 ## Funkcje
 
 ### `load_data(filename)`
+
 - **Opis:** Wczytuje dane z pliku zawierającego układ równań liniowych.
 - **Parametry:**
   - `filename`: Nazwa pliku zawierającego dane.
 - **Zwraca:** Dwie listy `A` i `b`, reprezentujące macierz współczynników i wektor stałych układu równań, odpowiednio.
 
 ### `Gauss(tab)`
+
 - **Opis:** Implementuje metodę eliminacji Gaussa do rozwiązania układu równań liniowych.
 - **Parametry:**
   - `tab`: Macierz rozszerzona reprezentująca układ równań liniowych.
@@ -41,7 +43,7 @@ Projekt ten skupia się na rozwiązywaniu układów równań liniowych przy uży
 
 ## Autor
 
-Ten projekt został stworzony przez [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+Ten projekt został stworzony przez ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## Licencja
 

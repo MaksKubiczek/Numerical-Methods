@@ -5,12 +5,14 @@ This project focuses on solving systems of linear equations using the Gaussian e
 ## Functions
 
 ### `load_data(filename)`
+
 - **Description:** Loads data from a file containing the system of linear equations.
 - **Parameters:**
   - `filename`: Name of the file containing the data.
 - **Returns:** Two lists `A` and `b`, representing the coefficient matrix and the constant vector of the system of equations, respectively.
 
 ### `Gauss(tab)`
+
 - **Description:** Implements the Gaussian elimination method to solve the system of linear equations.
 - **Parameters:**
   - `tab`: Augmented matrix representing the system of linear equations.
@@ -41,7 +43,7 @@ This project focuses on solving systems of linear equations using the Gaussian e
 
 ## Author
 
-This project was created by [Maksymilian Kubiczek] ([@MaksKubiczek](https://github.com/MaksKubiczek)).
+This project was created by ([MaksKubiczek](https://github.com/MaksKubiczek)).
 
 ## License
 
